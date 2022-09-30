@@ -1,5 +1,4 @@
-## Hi there 👋
-https://github.com/Asgard-RP/wiki/wiki/
+[Wiki](https://github.com/Asgard-RP/wiki/wiki/)
 <!--
 
 **Here are some ideas to get you started:**
